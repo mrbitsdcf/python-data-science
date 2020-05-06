@@ -16,3 +16,6 @@ docker run --name python-data-science -p 8888:8888 -v "$PWD/notebooks:/opt/noteb
 Just point your browser to http://localhost:8888
 
 Jupyter password is **root**
+
+
+**WARNING**: After build, this image will have aprox. 7.5GB size
